@@ -2,7 +2,7 @@ seccomp-profile.json is a modified version of
 https://github.com/moby/moby/blob/master/profiles/seccomp/default.json
 
 which is licensed under the apache 2.0 license
-https://raw.githubusercontent.com/moby/moby/master/LICENSE
+https://raw.githubusercontent.com/docker/docker-ce/v19.03.5/components/engine/profiles/seccomp/default.json
 
 our own contributions are also under the apache 2.0 license
-https://raw.githubusercontent.com/LiskHQ/lisk-core/master/LICENSE
+https://raw.githubusercontent.com/LiskHQ/lisk-core/v2.1.4/LICENSE
