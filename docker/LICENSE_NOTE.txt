@@ -1,0 +1,8 @@
+seccomp-profile.json is a modified version of
+https://github.com/moby/moby/blob/master/profiles/seccomp/default.json
+
+which is licensed under the apache 2.0 license
+https://raw.githubusercontent.com/moby/moby/master/LICENSE
+
+our own contributions are also under the apache 2.0 license
+https://raw.githubusercontent.com/LiskHQ/lisk-core/master/LICENSE
