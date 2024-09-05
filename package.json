@@ -103,12 +103,12 @@
 	"dependencies": {
 		"@oclif/command": "1.6.1",
 		"@oclif/config": "1.15.1",
-		"@oclif/plugin-autocomplete": "0.2.1",
-		"@oclif/plugin-help": "3.2.3",
-		"axios": "0.21.2",
+		"@oclif/plugin-autocomplete": "1.1.0",
+		"@oclif/plugin-help": "4.0.0",
+		"axios": "1.6.8",
 		"fs-extra": "9.0.1",
 		"inquirer": "7.3.2",
-		"lisk-sdk": "5.2.0",
+		"lisk-sdk": "6.0.0",
 		"tar": "6.1.9",
 		"tslib": "1.13.0"
 	},
