@@ -103,7 +103,7 @@
 	"dependencies": {
 		"@oclif/command": "1.6.1",
 		"@oclif/config": "1.15.1",
-		"@oclif/plugin-autocomplete": "0.2.1",
+		"@oclif/plugin-autocomplete": "1.2.0",
 		"@oclif/plugin-help": "3.2.3",
 		"axios": "0.21.2",
 		"fs-extra": "9.0.1",
